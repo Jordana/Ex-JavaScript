@@ -1,0 +1,5 @@
+Desenvolver uma página web que indique a hora do dia.
+mostre imagens. Dia bom dia, boa tarde e boa noite e
+avise que é madrugada.
+
+deve ter um plano de projéto.
